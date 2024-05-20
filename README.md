@@ -1,3 +1,3 @@
-## MY NOTES Task Management App
+## MY NOTES-Task Management App
 
 A flexible productivity tool, "My Notes" helps prioritize deadlines, improve teamwork, and simplify task management. Users may effectively manage their workload, set priorities, and get timely reminders with the help of simple task creation and categorization capabilities. The application enables smooth teamwork by assigning tasks and monitoring advancement, guaranteeing that participants remain in sync and efficient. With the help of My Notes' intelligent progress reports and cross-platform syncing, users can streamline their workflow and accomplish more with less anxiety. My Notes is the go-to tool for professionals, students, and business owners looking for effective task management on-the-go because of its adjustable themes and labeling options, which allow it to adapt to individual tastes.
