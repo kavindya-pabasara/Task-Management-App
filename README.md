@@ -46,7 +46,7 @@ The primary objective of this project is to develop a mobile application that:
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/kavindya-pabasara/Task-Management-App.git
+   https://github.com/kavindya-pabasara/Task-Management-App.git
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
